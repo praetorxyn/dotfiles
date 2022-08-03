@@ -1,0 +1,10 @@
+{
+    "editor.fontSize": 24,
+    "editor.fontFamily": "'Source Code Pro', Menlo, Monaco, 'Droid Sans Mono', Consolas, monospace",
+    "editor.tabSize": 2,
+    "files.insertFinalNewline": true,
+    "files.trimFinalNewlines": true,
+    "files.trimTrailingWhitespace": true,
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "typescript.updateImportsOnFileMove.enabled": "always"
+}

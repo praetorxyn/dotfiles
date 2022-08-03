@@ -1,0 +1,10 @@
+settings.json
+{{- if ne .chezmoi.os "darwin" }}
+Library
+{{- end }}
+{{- if ne .chezmoi.os "linux" }}
+.config/Code
+{{- end }}
+{{- if ne .chezmoi.os "windows" }}
+AppData
+{{- end }}
